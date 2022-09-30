@@ -1,4 +1,8 @@
-//Aufgabe 1
+	/** 
+	* Komplette Datei wurde mit Ausnahme der Methode 'public void propertyChange 
+	* (PropertyChangeEvent evt)' freundlicherweise von Prof. Lorenz im Programmierkurs Sommer 
+	* 2022 bereitgestellt
+	*/
 
 import java.awt.GridLayout;
 import java.beans.PropertyChangeEvent;
@@ -84,4 +88,3 @@ public class PhilosopherFrame extends JFrame implements PropertyChangeListener {
 		}
 	}
 }
-
